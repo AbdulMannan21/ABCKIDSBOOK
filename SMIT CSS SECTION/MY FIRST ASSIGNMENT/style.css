@@ -1,0 +1,1095 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+.hero{
+    margin: 50px 50px 50px 50px;
+    width: auto;
+    height: auto;
+    border: 8px solid aliceblue;
+    border-top-width: 8px;
+    border-right-width: 8px;
+    border-bottom-width: 8px;
+    border-left-width: 8px;
+    
+    border-top-style:solid";
+    border-right-style:solid";
+    border-bottom-style:solid";
+    border-left-style:solid";
+   
+    border-top-color:aliceblue;
+    border-right-color:aliceblue;
+    border-bottom-color:aliceblue;
+    border-left-color:aliceblue;
+    
+    border-image-source:initial;
+    border-image-slice:initial;
+    border-image-width:initial;
+    border-image-outset:initial;
+    border-image-repeat:initial;
+    text-align:center;
+}
+.one{
+    font-family:'Courier New', Courier, monospace;
+    padding: 100px;
+  
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    font-size: 30px;
+   
+    border-bottom-left-radius:80%;
+    border-bottom-right-radius:80%;
+    border-bottom:5px solid #9750C7;
+    border-bottom-width 5px;
+    border-bottom-style:solid;
+    border-bottom-color:#9750C7;
+    background-color: #9750C7;
+    color: white;
+
+}
+.two{
+    padding:10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 5px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    color: red;
+}
+.three{
+    padding:10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 5px;
+    font-weight: bold;
+    font-size: 70px;
+    color:skyblue;
+    font-family:cursive; 
+}
+.zero h1 {
+    margin-top: 40px;
+    font-family: Righteous;
+    font-size: 100px;
+    text-align: center;
+    margin-bottom: 30px;
+    color: rgb(255, 0, 255);
+    text-shadow: 2px 2px rgb(255, 24, 255);
+}
+.zero a {
+    text-decoration: none;
+    border: 2px solid white;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: black;
+    color: #f0a12b;
+    border-radius: 50%;
+}
+body {
+    height: auto;
+    width: max-content;
+    margin-left: 20vw;
+    margin: auto;
+    background-size: cover;
+    
+}
+
+#A {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+
+.A {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+
+.for1 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+
+.APPLE {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: red;
+}
+
+#A img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+
+#B {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.B {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+
+.for2 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.BALL {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: green;
+}
+#B img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+#C {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.C {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for3 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.CAT {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: lightsalmon;
+}
+#C img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+
+
+#D {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.D {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for4 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.DOG {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(248, 166, 166);
+}
+#D img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+#E {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.E {
+    font-family: Poppins-ExtraBold;
+    font-size: 90px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for5 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.ELEPHANT {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 80px;
+    font-weight: bold;
+    color: gray;
+}
+#E img {
+    width: 150px;
+    height: 150px;
+    float: right;
+}
+#F {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.F {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for6 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.FISH {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(230, 196, 28);
+}
+#F img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+#G {
+    
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.G {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for7 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.GIRAFEE {
+  
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(245, 182, 66);
+}
+#G img {
+    padding-right:30px ;
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+#H {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.H {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for8 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.HEN {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(254, 184, 52);
+}
+#H img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+#I {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.I {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for9 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.ICE_CREAM {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 80px;
+    font-weight: bold;
+    color: palevioletred;
+}
+#I img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+#J {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.J {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for10 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.JUG {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: skyblue;
+}
+#J img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+#K {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.K {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for11 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.KITE {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(12, 199, 12);
+}
+#K img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+#L {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.L {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for12 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.LOIN {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(199, 124, 59);
+}
+#L img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+
+#M {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.M {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for13 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.MONKEY {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgba(241, 85, 85, 0.374);
+}
+#M img {
+    
+    width: 170px;
+    height: 170px;
+    float:right;
+}
+#N {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.N {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for14 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.NEST {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(100, 0, 0);
+}
+#N img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+#O {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.O {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for15 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.ORANGE {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: orange;
+}
+#O img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+#P {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.P {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for16 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.PARROT {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(40, 205, 40);
+}
+#P img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+#Q {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.Q {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for17 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.QUEEN {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(236, 236, 94);
+}
+#Q img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+#R {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.R {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for18 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.RABBIT {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(97, 66, 66);
+}
+#R img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+
+#S {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.S {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for19 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.SUN {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(222, 183, 74);
+}
+#S img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+#T {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.T {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for20 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.TREE {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(83, 249, 83);
+}
+#T img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+#U {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.U {
+    font-family: Poppins-ExtraBold;
+    font-size: 90px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for21 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.UMBRELLA {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 70px;
+    font-weight: bold;
+    color: rgb(170, 44, 86);
+}
+#U img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+#V {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.V {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for22 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.VAN {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgba(226, 204, 0, 0.957);
+}
+#V img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+#W {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.W{
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for23 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.WATCH {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgba(189, 188, 175, 0.957);
+}
+#W img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+#X {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.X {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for24 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.X_RAY {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgba(53, 53, 185, 0.58);
+}
+#X img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+#Y {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.Y {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+.for25 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.YOYO {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(81, 159, 192);
+}
+#Y img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+#Z {
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    box-shadow: 2px 2px 3px 3px darkgray;
+    margin-left: 16vw;
+    border-radius: 30px;
+}
+.Z {
+    font-family: Poppins-ExtraBold;
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    padding-left: 60px;
+}
+
+.for26 {
+    font-family: Righteous;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.ZEBRA {
+    padding-right: 120px;
+    font-family: Sweet_Cherry_Free;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(139, 129, 129);
+}
+#Z img {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+.zero a {
+    text-decoration: none;
+    border: 2px solid white;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: black;
+    color: #ff9800;
+    border-radius: 50%;
+}
+
